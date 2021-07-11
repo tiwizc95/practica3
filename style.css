@@ -1,0 +1,73 @@
+body{
+    background-color: rgba(82, 82, 82, 0.568);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Widget{
+    margin-top: 15px;
+    background-color: rgba(25, 0, 255, 0.616);
+}
+
+#Widget{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    width: 20%;
+    border: 1px solid rgb(255, 255, 255);    
+
+}
+
+#Widget > p{
+    display: inline;
+}
+#reloj{
+    margin-top: 10px;
+    background-color: rgba(25, 0, 255, 0.616);
+}
+
+#reloj{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    width: 20%;
+    border: 1px solid rgb(255, 255, 255);    
+
+}
+#reloj > p{
+    display: inline;
+}
+
+#Saludo{
+    margin-top: 19px;
+    background-color: rgba(25, 0, 255, 0.616);
+}
+
+#Saludo{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto;
+    width: 20%;
+    border: 1px solid rgb(255, 255, 255);    
+
+}
+
+#Saludo > p{
+    display: inline;
+    
+}
+.Saludo{
+    font-family: arial;
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom:5px;
+    background:rgb(0, 17, 255);
+    padding: 20px;
+    width: 40%;
+}
